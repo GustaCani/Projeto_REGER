@@ -1,7 +1,7 @@
 .header1{
     background: url(./AAA.png);
     height: 240px;
-    width: 1349px;
+    width: flex;
     display: flex;
     align-items: center;
     justify-content: center;
