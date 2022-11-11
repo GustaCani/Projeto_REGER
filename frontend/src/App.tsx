@@ -1,7 +1,7 @@
 
 import './App.css'
 import React from 'react'
-import {Route} from 'react-router-dom'
+import {HashRouter, Route} from 'react-router-dom'
 import {Routes} from 'react-router-dom'
 import { BrowserRouter } from 'react-router-dom'
 
@@ -17,8 +17,8 @@ import Creditos from './telas/tela creditos/creditos'
 function App() {
   return (
     <>
-      <BrowserRouter>
-        <Routes>
+      <HashRouter basename='/'>
+        <Routes >
           <Route path='/' element = {<Tela1/>}/>
           <Route path='/o-que-fazemos' element = {<Tela2/>}/>
           <Route path='/como-fazemos' element = {<Tela3/>}/>
@@ -27,7 +27,7 @@ function App() {
           <Route path='/dicas' element = {<Tela6/>}/>
           <Route path='/creditos' element = {<Creditos/>}/>
         </Routes>
-      </BrowserRouter>  
+      </HashRouter>  
     </>
   )
 }
