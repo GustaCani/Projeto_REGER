@@ -8,16 +8,16 @@ function Tela4() {
     <>
       <div>
         <div>
-          <Header/>
+          <Header />
         </div>
         <body>
           <div>
-              <div className='texto_projeto4'>
-                <Body/>
-              </div>
-              <div>
-                <Footer/>
-              </div>
+            <div className='texto_projeto4'>
+              <Body />
+            </div>
+            <div>
+              <Footer />
+            </div>
           </div>
         </body>
       </div>

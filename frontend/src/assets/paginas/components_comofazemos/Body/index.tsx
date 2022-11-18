@@ -22,7 +22,7 @@ function Body() {
                         </p>
                     </div>
 
-                    <div className='b'>
+                    <div className='a'>
                         <h3> Descarte de resíduos Orgânicos e Compostagem: </h3>
                         <hr></hr>
                         <p>
@@ -37,7 +37,7 @@ function Body() {
                         </p>
                     </div>
 
-                    <div className='c'>
+                    <div className='a'>
                         <h3> Redução do consumo de tonners e papel: </h3>
                         <hr></hr>
                         <p>
@@ -51,7 +51,7 @@ function Body() {
                         </p>
                     </div>
 
-                    <div className='d'>
+                    <div className='a'>
                         <h3> Quali-Quantificação dos resíduos: </h3>
                         <hr></hr>
                         <p>
@@ -63,7 +63,7 @@ function Body() {
                         </p>
                     </div>
 
-                    <div className='e'>
+                    <div className='a'>
                         <h3> Compras sustentáveis: </h3>
                         <hr></hr>
                         <p>
@@ -75,7 +75,7 @@ function Body() {
                         </p>
                     </div>
 
-                    <div className='f'>
+                    <div className='a'>
                         <h3> Conscientização: </h3>
                         <hr></hr>
                         <p>
@@ -112,7 +112,7 @@ function Body() {
 
                 </div>
                 <hr></hr>
-                <div className='g'>
+                <div className='a'>
                     <p>
                         Esta atividade é realizada constantemente, com organização de palestras,
                         envio de material de divulgação das ações do projeto, com vídeos sobre
