@@ -12,7 +12,7 @@ function Tela3() {
         </div>
         <body>
           <div>
-              <div>
+              <div className='texto_projeto3'>
                 <Body/>
               </div>
               <div>
