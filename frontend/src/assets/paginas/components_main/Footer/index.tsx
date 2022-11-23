@@ -5,8 +5,11 @@ function Footer() {
         <footer className='footer1'>
             <div>
                 <a href='#/creditos'> Desenvolvido por </a>
-                <a className='Sobre'> Sobre </a>
                 <img className='face' />
+            </div>
+
+            <div>
+            <a className='Sobre'> Sobre </a>
             </div>
         </footer>
 
