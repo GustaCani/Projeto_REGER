@@ -8,7 +8,7 @@ function Footer() {
                 <img className='face' />
             </div>
 
-            <div>
+            <div md-12>
             <a className='Sobre'> Sobre </a>
             </div>
         </footer>
