@@ -1,7 +1,7 @@
 .header3{
     background-image: url(./comofazemos.jpg);
     height: 240px;
-    width: 35px;
+    width: auto ;
     display: flex;
     align-items: center;
     justify-content: center;
