@@ -1,5 +1,6 @@
 .header3{
-    background-image: linear-gradient(to bottom, transparent 0%, #fff 30%) url(./teste.png);
+    background-image: url(./teste.png);
+    -webkit-mask-image: linear-gradient(to top, transparent 25%, #fff 10%);
     height: 240px;
     width: 1530px ;
 }
