@@ -1,5 +1,5 @@
 .header3{
-    background-image: url(./teste.png);
+    background-image: linear-gradient(to bottom, transparent 0%, #fff 30%) url(./teste.png);
     height: 240px;
     width: 1530px ;
 }
