@@ -7,7 +7,7 @@ footer{
     height: auto;
     width: 100vw;
     padding-top: 40px;
-    color: rgb(20, 92, 34);
+    color: #fff;
 }
 
 .footer-content{
@@ -27,6 +27,7 @@ footer{
 
 .footer-menu{
     float: right;
+    background-color: rgb(7, 93, 37);
   }
   
   .footer-menu ul{
@@ -39,7 +40,7 @@ footer{
   }
   
   .footer-menu ul li a{
-    color: #206815;
+    color: #d0d6cf;
     text-decoration: none;
   }
   
