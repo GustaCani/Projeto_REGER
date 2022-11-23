@@ -7,7 +7,9 @@ function Footer() {
 <h3>Foolish Developer</h3>
 </div>
 
+<p>copyright &copy;2021 <a href="#">foolishdeveloper</a>  </p>
 <div className="footer-menu">
+    
  <ul className="f-menu">
     <li><a href="">Home</a></li>
     <li><a href="">About</a></li>
