@@ -5,7 +5,7 @@ function Footer() {
         <footer className='footer1'>
             <div>
                 <a href='#/creditos'> Desenvolvido por </a>
-                <img className='face' width="30px" height="30px" />
+                <img className='face' />
             </div>
 
             <div className="footer-menu">
