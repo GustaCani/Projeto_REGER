@@ -1,10 +1,8 @@
 .header2{
-    background-color: #020202;
+    background-image: url(./oquefazemos.png);
+    -webkit-mask-image: linear-gradient(to top, transparent 0%, #fff 20%);
     height: 240px;
-    width: flex;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    width: 1530px ;
 }
 
 .header2 h1{
