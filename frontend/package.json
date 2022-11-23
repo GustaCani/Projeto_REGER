@@ -5,12 +5,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "deploy": "gh-pages -d build",
-    "predeploy": "npm run build",
-    "start": "react-scripts start",
-    "build": "tsc && vite build"
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
+    "@react-google-maps/api": "^2.17.0",
     "@react-navigation/native": "^6.0.13",
     "@react-navigation/stack": "^6.3.1",
     "leaflet": "^1.9.2",
