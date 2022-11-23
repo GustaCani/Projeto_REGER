@@ -7,7 +7,7 @@
     height: 200px;    
     text-align: center;
     line-height: 100px;
-    margin: auto auto;
+    position: relative;
     flex-shrink: 0;
 }
 
@@ -16,12 +16,7 @@ a {
     position: relative;
 }
 
-.footer-menu{
-
-    position: absolute;
-    text-align: center;
+.Sobre{
+    position: relative;
+    margin-left: 30%;
 }
-
-.footer-menu ul{
-    display: flex;
-  }
