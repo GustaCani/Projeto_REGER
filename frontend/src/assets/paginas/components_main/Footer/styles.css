@@ -21,3 +21,7 @@ a {
     position: absolute;
     text-align: center;
 }
+
+.footer-menu ul{
+    display: flex;
+  }
