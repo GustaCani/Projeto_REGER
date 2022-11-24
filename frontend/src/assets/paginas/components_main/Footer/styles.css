@@ -16,10 +16,38 @@ a {
     position: relative;
 }
 
-.Sobre{
+.oqfazemos{
     text-align: right;
     margin-top: 50%;
     margin-bottom: 70%;
     margin-right: 50%;
     
+}
+
+.comofazemos{
+    text-align: right;
+    margin-top: 50%;
+    margin-bottom: 70%;
+    margin-right: 50%;
+}
+
+.crescemos{
+    text-align: right;
+    margin-top: 50%;
+    margin-bottom: 70%;
+    margin-right: 50%;
+}
+
+.ondeestamos{
+    text-align: right;
+    margin-top: 50%;
+    margin-bottom: 70%;
+    margin-right: 50%;
+}
+
+.dicas{
+    text-align: right;
+    margin-top: 50%;
+    margin-bottom: 70%;
+    margin-right: 50%;
 }

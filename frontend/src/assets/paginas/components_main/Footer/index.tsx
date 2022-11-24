@@ -9,7 +9,11 @@ function Footer() {
             </div>
 
             <div>
-                 <a className='Sobre'> Sobre </a>
+                <a href='#/o-que-fazemos' className='oqfazemos'>O Que Fazemos</a>
+                <a href='#/como-fazemos' className='comofazemos'>Como Fazemos</a>
+                <a href='#/crescemos' className='crescemos'>Crescemos</a>
+                <a href='#/onde-estamos' className='ondeestamos'>Onde Estamos</a>
+                <a href='#/dicas' className='dicas'>Dicas</a>
             </div>
         </footer>
 
