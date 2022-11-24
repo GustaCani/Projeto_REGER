@@ -1,5 +1,6 @@
 .header3{
     background-image: url(./onde-estamos.jpg);
+    -webkit-mask-image: linear-gradient(to top, transparent 0%, #fff 20%);
     height: 240px;
     width: 1530px;
     display: flex;

@@ -2,7 +2,7 @@ import './styles.css'
 
 function Header(){
     return(
-        <header className='header3'>
+        <header className='header2'>
             
         </header>
     )
