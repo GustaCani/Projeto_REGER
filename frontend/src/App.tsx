@@ -5,12 +5,12 @@ import {HashRouter, Route} from 'react-router-dom'
 import {Routes} from 'react-router-dom'
 import { BrowserRouter } from 'react-router-dom'
 
-import Tela1 from './telas/tela1/tela1'
-import Tela2 from './telas/tela2/tela2'
-import Tela3 from './telas/tela3/tela3'
-import Tela4 from './telas/tela4/tela4'
-import Tela5 from './telas/tela5/tela5'
-import Tela6 from './telas/tela6/tela6'
+import Tela1 from './telas/tela1(main)/tela1'
+import Tela2 from './telas/tela2(o_q_fazemos)/tela2'
+import Tela3 from './telas/tela3(como_fazemos)/tela3'
+import Tela4 from './telas/tela4(crescemos)/tela4'
+import Tela5 from './telas/tela5(onde_estamos)/tela5'
+import Tela6 from './telas/tela6(dicas)/tela6'
 import Creditos from './telas/tela creditos/creditos'
 
 
