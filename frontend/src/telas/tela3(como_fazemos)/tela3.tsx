@@ -6,6 +6,10 @@ import Header from '../../assets/paginas/components_comofazemos/Header'
 function Tela3() {
   return (
     <>
+      {
+        window.scrollTo(0, 1)
+      }
+
       <div>
         <div>
           <Header/>

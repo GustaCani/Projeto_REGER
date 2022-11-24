@@ -107,7 +107,7 @@ nav a:active {
     background-image: ;
 }
 
-
+/*
 .show576 {
     display: none;
 }
@@ -148,3 +148,9 @@ nav a:active {
         display: table-cell;
     }
 }
+*/
+
+
+@media (max-device-width: 900px) {
+    .nav { width:100%; } 
+    }

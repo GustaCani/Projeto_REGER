@@ -1,6 +1,7 @@
 .projeto{
     font-family: Arial;
     border-top: 50px;
+    width: auto;
 }
 
 .projeto h1{
@@ -14,3 +15,7 @@
 .mr{
     margin-top: 80px;
 }
+
+@media (max-device-width: 900px) {
+    .projeto { width:100%; } 
+    }
