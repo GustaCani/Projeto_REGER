@@ -11,9 +11,13 @@
 }
 
 .slides{
-    width: 400px;
+    width: 50%;
     height: 400px;
     display: flex;
+}
+
+@media (max-device-width: 900px) {
+    .slides { width:100%; } 
 }
 
 .slides input{

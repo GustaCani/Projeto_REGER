@@ -18,7 +18,7 @@ function Tela2() {
         </div>
         <body>
           <div>
-            <div className='texto_projeto'>
+            <div className='texto_projeto2'>
               <Body />
             </div>
             <div>

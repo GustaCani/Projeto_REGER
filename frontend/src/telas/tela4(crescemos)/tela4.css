@@ -1,8 +1,16 @@
 .texto_projeto4{
-    height: 1520px;
-    width: 800px;
+    height: 70%;
+    width: 57%;
     align-items: center;
     justify-content: center;
-    margin-left: 310px;
+    margin-left: 22%;
     margin-top: 60px;
+}
+
+@media (max-device-width: 900px) {
+    .texto_projeto4 { 
+        width:100%; 
+        margin-left: 200px;
+        height: 100%;
+    } 
 }
