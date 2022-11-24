@@ -1,6 +1,6 @@
 import './styles.css'
 
-import './script'
+//import './script'
 
 
 
