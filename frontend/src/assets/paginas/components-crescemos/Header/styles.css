@@ -1,7 +1,7 @@
 .header4{
-    background-color: #000000;
+   background-image: url(./crescemos.jpg);
     height: 240px;
-    width: flex;
+    width: 1530px;
     display: flex;
     align-items: center;
     justify-content: center;
