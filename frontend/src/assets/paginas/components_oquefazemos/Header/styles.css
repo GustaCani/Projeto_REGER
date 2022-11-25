@@ -1,12 +1,15 @@
 .header2{
     background-image: url(./oquefazemos.jpg);
+    background-size: auto;
     height: 240px;
-    width: 100% ;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.header2 h1{
+.header2{
     text-align: center;
-    margin-bottom: 20%;
     color: white;
     font-size: xx-large;
     font-family: 'Roboto', sans-serif;
