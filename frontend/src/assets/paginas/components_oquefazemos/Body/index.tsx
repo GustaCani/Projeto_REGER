@@ -38,8 +38,11 @@ function Body(){
                     alunos em cada uma das atividades, o projeto é 
                     dividido em áreas de atuação.
                 </p>
+                <br />
+                <br />
             </div>
         </>
+        
     )
 }
 
