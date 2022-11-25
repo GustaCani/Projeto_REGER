@@ -1,13 +1,16 @@
 .header3{
     background-image: url(./onde-estamos.jpg);
-    -webkit-mask-image: linear-gradient(to top, transparent 0%, #fff 20%);
+    background-size: auto;
     height: 240px;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.header3 h1{
-    color: #ffffff;
-}
+ }
+ 
+ .header3{
+     text-align: center;
+     color: white;
+     font-size: xx-large;
+     font-family: 'Roboto', sans-serif;
+ }
