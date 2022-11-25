@@ -12,8 +12,7 @@
     text-align: center;
     color: white;
     font-size: x-large;
-    
-
+    font-family: 'Roboto', sans-serif;
 }
 
 @media (max-device-width: 900px) {
