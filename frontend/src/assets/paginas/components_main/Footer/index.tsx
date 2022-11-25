@@ -16,8 +16,8 @@ function Footer() {
             </div>
 
             <span>
-                <p className='teste'> © Todos os direitos reservados </p> 
                 <a href='#/creditos' className='testado'> Desenvolvido por </a>
+                <p className='teste'> © Todos os direitos reservados </p> 
             </span>
         </footer>
 
