@@ -4,3 +4,10 @@
     font-family: "Roboto";
     text-align: center;
 }
+
+.back{
+    background-image: url(./hands-cupping-recycle-save-the-environment-campaign.jpg);
+    position: relative;
+    width: auto;
+    height: auto;
+}
