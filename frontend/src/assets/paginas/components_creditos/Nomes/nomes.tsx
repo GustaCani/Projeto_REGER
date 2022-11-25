@@ -3,10 +3,8 @@ import './nomes.css'
 function Nomes() {
     return(
         <>
-        <body>
-            <div className='back'>
-                
-            </div>
+        <body className='back'>
+    
         </body>
             <div className='nomes'>
                 <h1> Desenvolvido por: </h1>
