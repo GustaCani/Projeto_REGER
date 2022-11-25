@@ -1,12 +1,16 @@
 .header6{
-    background-color: #000000;
+    background-image: url(./dicas.jpg);
+    background-size: auto;
     height: 240px;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.header6 h1{
-    color: #ffffff;
-}
+ }
+ 
+ .header6{
+     text-align: center;
+     color: white;
+     font-size: xx-large;
+     font-family: 'Roboto', sans-serif;
+ }
