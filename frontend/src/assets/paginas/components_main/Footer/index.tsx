@@ -2,7 +2,7 @@ import './styles.css'
 
 function Footer() {
     return (
-        <footer className='footer1'>
+        <footer className='footer8'>
             <div>
                 <img className='face' />
             </div>
