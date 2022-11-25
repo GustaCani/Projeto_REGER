@@ -3,6 +3,11 @@ import './nomes.css'
 function Nomes() {
     return(
         <>
+        <body>
+            <div className='back'>
+                
+            </div>
+        </body>
             <div className='nomes'>
                 <h1> Desenvolvido por: </h1>
                 <h3> Gustavo Caniati de Lima </h3>
