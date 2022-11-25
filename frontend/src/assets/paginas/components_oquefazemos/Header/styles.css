@@ -1,6 +1,5 @@
 .header2{
     background-image: url(./oquefazemos.jpg);
-    -webkit-mask-image: linear-gradient(to top, transparent 0%, #fff 20%);
     height: 240px;
     width: 100% ;
 }
