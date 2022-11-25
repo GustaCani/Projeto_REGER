@@ -16,8 +16,8 @@ function Footer() {
             </div>
 
             <div>
-                <p> © Todos os direitos reservados </p>
-                <a href='#/creditos'> Desenvolvido por </a>
+                <p> © Todos os direitos reservados </p> <a href='#/creditos'> Desenvolvido por </a>
+                
             </div>
         </footer>
 
