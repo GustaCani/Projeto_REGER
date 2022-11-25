@@ -4,3 +4,27 @@
     font-family: "Roboto";
     text-align: center;
 }
+
+.Logo{
+    background: url(./usc.png);
+    height: 121px;
+    width: 263px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.desenvolvimento{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ciencia{
+    margin-right: 80px;
+}
