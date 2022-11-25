@@ -15,10 +15,10 @@ function Footer() {
                 <a href='#/dicas' className='dicas'>Dicas</a>
             </div>
 
-            <div>
+            <span>
                 <p className='teste'> © Todos os direitos reservados </p> 
                 <a href='#/creditos' className='testado'> Desenvolvido por </a>
-            </div>
+            </span>
         </footer>
 
 
