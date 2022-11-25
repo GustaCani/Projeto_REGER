@@ -17,7 +17,7 @@ function Footer() {
 
             <div>
                 <p className='teste'> © Todos os direitos reservados </p> 
-                <a href='#/creditos'> Desenvolvido por </a>
+                <a href='#/creditos' className='testado'> Desenvolvido por </a>
             </div>
         </footer>
 
