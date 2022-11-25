@@ -1,6 +1,13 @@
 .header2{
-    background-image: url(./oquefazemos.png);
+    background-image: url(./oquefazemos.jpg);
     -webkit-mask-image: linear-gradient(to top, transparent 0%, #fff 20%);
     height: 240px;
     width: 100% ;
+}
+
+.header2{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Roboto', sans-serif;
 }
